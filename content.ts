@@ -1,2 +1,2 @@
 console.log("scsal")
-console.log("ovjis")
+console.log("jynku")
