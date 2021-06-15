@@ -1,2 +1,2 @@
 console.log("scsal")
-console.log("mwfud")
+console.log("nauny")
