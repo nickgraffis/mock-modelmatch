@@ -1,2 +1,2 @@
 console.log("scsal")
-console.log("wmnco")
+console.log("dwikd")
