@@ -1,2 +1,2 @@
 console.log("scsal")
-console.log("bkshh")
+console.log("lanok")
