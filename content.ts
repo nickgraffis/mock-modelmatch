@@ -1,2 +1,2 @@
 console.log("scsal")
-console.log("lanok")
+console.log("skort")
