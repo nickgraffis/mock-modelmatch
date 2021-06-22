@@ -1,2 +1,2 @@
 console.log("scsal")
-console.log("skort")
+console.log("miyqd")
