@@ -1,3 +1,3 @@
 console.log("scsal")
 console.log("runir")
-console.log("uthif")
+console.log("oecti")
